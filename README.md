@@ -14,4 +14,4 @@ for (i = 2; i < n; i++) {
 
 printf("Prime number\n");
 return 0;
-}# C-programming-
+}
